@@ -5,3 +5,5 @@
 Este repositório tem o intuito de servir como portfolio para entrega de atividades da disciplina LP3A5.
 
 ## Tecnologias utilizadas
+Java
+Eclipse
