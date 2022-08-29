@@ -8,11 +8,11 @@ public class ExProdutorConsumidor {
     private Object vazio = new Object();
 
     public static void main(String[] args) {
-        new ExProdutorConsumidor().executaParaelo();
+        new ExProdutorConsumidor().executaParalelo();
 
     }
 
-    public void executaParaelo(){
+    public void executaParalelo(){
         Produtor p = new Produtor();
         Consumidor c = new Consumidor();
         new Thread(p).start();
