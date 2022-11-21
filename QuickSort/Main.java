@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
-/*  w  w  w .j  av  a2 s.c  o  m*/
+
 public class Main {
   public static void main(String[] args) {
     ForkJoinPool fjPool = new ForkJoinPool();
